@@ -1,8 +1,8 @@
 # part2
 
-##Commentary by Eve Alie (E-Allie)
+##Commentary by Eve Ali (E-Allie)
 
-Overall, running it simply tested Task A (removing leading whitespace), as compared to fully formatting.
+Overall, running it simply printed text without lines, as compared to fully formatting, or even testing (it appeared to test Task A, it didn't truly).
 
 The countChar function theoretically would have worked.
 It was, however, untested.
