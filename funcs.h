@@ -6,12 +6,15 @@ Assignment: Lab 8
 Indent
 */
 
-#include <iostream>
+/*#include <iostream>
 #include <cstdlib>
-#include <fstream>
-using namespace std;
+#include <fstream>   - Additionally unused.
+
+Not in the header stylistically?
+*/
+
+using namespace std; //Personally, I wouldn't.
 
 string removeLeadingSpaces(string line);
 int countChar(string line, char c);
-
-
+string braceTabber(string line, int *braces);
